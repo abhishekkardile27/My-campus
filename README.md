@@ -5,7 +5,7 @@ This project is a College Management System developed to simplify and automate d
 
 How the System Works
 
-The application provides role-based access, mainly for:
+# The application provides role-based access, mainly for:
 
 Admin
 
@@ -13,7 +13,7 @@ Users (students/faculty)
 
 The Admin has full control over the system, such as managing students, subjects, and attendance records. Users can view relevant academic information assigned to them.
 
-Key Features
+# Key Features
 
 Admin Login System
 Secure login for administrators to prevent unauthorized access.
@@ -30,7 +30,7 @@ Attendance can be marked and stored digitally, reducing manual paperwork.
 Reports & Records
 Attendance and academic records can be viewed easily whenever required.
 
-Technology Used
+# Technology Used
 
 Programming Language: Java
 
@@ -38,7 +38,7 @@ Database: MySQL (for storing student, subject, and attendance data)
 
 Architecture: Simple layered structure for better data handling
 
-Advantages of the System
+# Advantages of the System
 
 Reduces manual work and paperwork
 
@@ -50,6 +50,6 @@ Easy to use and maintain
 
 Suitable for small to medium educational institutions
 
-Conclusion
+# Conclusion
 
 This project demonstrates how software can be used to digitize college operations and improve efficiency. It is especially useful as an academic or final-year project, showcasing practical knowledge of Java, database handling, and system design
